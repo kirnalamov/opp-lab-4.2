@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop\\lab42\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{252AD569-29F9-43AC-8E37-2296C4A6FCA7}|lab42\\lab42.vcxproj|C:\\Users\\malan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop\\lab42\\lab42\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{252AD569-29F9-43AC-8E37-2296C4A6FCA7}|lab42\\lab42.vcxproj|solutionrelative:lab42\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252AD569-29F9-43AC-8E37-2296C4A6FCA7}|lab42\\lab42.vcxproj|C:\\Users\\malan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop\\lab42\\lab42\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{252AD569-29F9-43AC-8E37-2296C4A6FCA7}|lab42\\lab42.vcxproj|solutionrelative:lab42\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252AD569-29F9-43AC-8E37-2296C4A6FCA7}|lab42\\lab42.vcxproj|C:\\Users\\malan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop\\lab42\\lab42\\model.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{252AD569-29F9-43AC-8E37-2296C4A6FCA7}|lab42\\lab42.vcxproj|solutionrelative:lab42\\model.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252AD569-29F9-43AC-8E37-2296C4A6FCA7}|lab42\\lab42.vcxproj|C:\\Users\\malan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop\\lab42\\lab42\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{252AD569-29F9-43AC-8E37-2296C4A6FCA7}|lab42\\lab42.vcxproj|solutionrelative:lab42\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252AD569-29F9-43AC-8E37-2296C4A6FCA7}|lab42\\lab42.vcxproj|C:\\Users\\malan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop\\lab42\\lab42\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{252AD569-29F9-43AC-8E37-2296C4A6FCA7}|lab42\\lab42.vcxproj|solutionrelative:lab42\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252AD569-29F9-43AC-8E37-2296C4A6FCA7}|lab42\\lab42.vcxproj|C:\\Users\\malan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop\\lab42\\lab42\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{252AD569-29F9-43AC-8E37-2296C4A6FCA7}|lab42\\lab42.vcxproj|solutionrelative:lab42\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 293,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "model.h",
+              "DocumentMoniker": "C:\\Users\\malan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop\\lab42\\lab42\\model.h",
+              "RelativeDocumentMoniker": "lab42\\model.h",
+              "ToolTip": "C:\\Users\\malan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop\\lab42\\lab42\\model.h",
+              "RelativeToolTip": "lab42\\model.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T13:43:29.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "C:\\Users\\malan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop\\lab42\\lab42\\MyForm.h",
+              "RelativeDocumentMoniker": "lab42\\MyForm.h",
+              "ToolTip": "C:\\Users\\malan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop\\lab42\\lab42\\MyForm.h",
+              "RelativeToolTip": "lab42\\MyForm.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T13:42:10.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyForm.cpp",
+              "DocumentMoniker": "C:\\Users\\malan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop\\lab42\\lab42\\MyForm.cpp",
+              "RelativeDocumentMoniker": "lab42\\MyForm.cpp",
+              "ToolTip": "C:\\Users\\malan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop\\lab42\\lab42\\MyForm.cpp",
+              "RelativeToolTip": "lab42\\MyForm.cpp",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T13:41:43.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\malan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop\\lab42\\lab42\\MyForm.h",
+              "RelativeDocumentMoniker": "lab42\\MyForm.h",
+              "ToolTip": "C:\\Users\\malan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop\\lab42\\lab42\\MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "lab42\\MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T13:41:22.834Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "data.txt",
+              "DocumentMoniker": "C:\\Users\\malan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop\\lab42\\lab42\\data.txt",
+              "RelativeDocumentMoniker": "lab42\\data.txt",
+              "ToolTip": "C:\\Users\\malan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop\\lab42\\lab42\\data.txt",
+              "RelativeToolTip": "lab42\\data.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-20T16:21:28.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\malan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop\\lab42\\lab42\\main.cpp",
+              "RelativeDocumentMoniker": "lab42\\main.cpp",
+              "ToolTip": "C:\\Users\\malan\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\oop\\lab42\\lab42\\main.cpp",
+              "RelativeToolTip": "lab42\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T13:39:47.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
